@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/AlgoViz/',
+    base: '/AlgoVis/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
