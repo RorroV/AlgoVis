@@ -1,0 +1,6 @@
+{
+  "name": "Visualizador de Algoritmos",
+  "description": "Visualizaciones interactivas de algoritmos y estructuras de datos para entender lógica y costos computacionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
