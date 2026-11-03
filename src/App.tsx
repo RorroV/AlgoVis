@@ -88,7 +88,7 @@ export default function App() {
         
         <div className="p-4 border-t border-slate-800 text-xs text-slate-500">
           <p className="flex items-center gap-2 mb-2">
-            <Info className="w-4 h-4 shrink-0" /> AED 2026 (FICH-UNL)
+            <Info className="w-4 h-4 shrink-0" /> AED 2026
           </p>
         </div>
       </aside>
